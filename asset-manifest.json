@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Resume_Builder/static/css/main.725aa462.css",
+    "main.js": "/Resume_Builder/static/js/main.a63105d3.js",
+    "static/js/498.dd75e41a.chunk.js": "/Resume_Builder/static/js/498.dd75e41a.chunk.js",
+    "static/js/703.4f1d69e5.chunk.js": "/Resume_Builder/static/js/703.4f1d69e5.chunk.js",
+    "static/js/578.15224124.chunk.js": "/Resume_Builder/static/js/578.15224124.chunk.js",
+    "static/media/Brahmadutta Dalai_1_page-0001.jpg": "/Resume_Builder/static/media/Brahmadutta Dalai_1_page-0001.eb4b41c6280ea561ea7f.jpg",
+    "static/media/Brahmadutta Dalai 2_page-0001.jpg": "/Resume_Builder/static/media/Brahmadutta Dalai 2_page-0001.85b5c3ce14487dbccaf0.jpg",
+    "static/media/aboutus.png": "/Resume_Builder/static/media/aboutus.998b94cca027663ed0a8.png",
+    "static/media/logoresume.png": "/Resume_Builder/static/media/logoresume.0ad95ed0343253cfea59.png",
+    "static/media/aboutline.png": "/Resume_Builder/static/media/aboutline.c86f98f8db46e72d1f52.png",
+    "index.html": "/Resume_Builder/index.html",
+    "main.725aa462.css.map": "/Resume_Builder/static/css/main.725aa462.css.map",
+    "main.a63105d3.js.map": "/Resume_Builder/static/js/main.a63105d3.js.map",
+    "498.dd75e41a.chunk.js.map": "/Resume_Builder/static/js/498.dd75e41a.chunk.js.map",
+    "703.4f1d69e5.chunk.js.map": "/Resume_Builder/static/js/703.4f1d69e5.chunk.js.map",
+    "578.15224124.chunk.js.map": "/Resume_Builder/static/js/578.15224124.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.725aa462.css",
+    "static/js/main.a63105d3.js"
+  ]
+}
